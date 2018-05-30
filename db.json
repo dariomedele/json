@@ -19,15 +19,4 @@
     }
   ]
 }
-{
-    "dateResponseList": [
-        {
-            "MVID": "111111",
-            "caseNumber": "CAS-00000-000000",
-            "transmissionID": "11111111111",
-            "responseMessage": "Success",
-            "responseCode": 0
-        }
-    ]
-} 
-
+ 
