@@ -1,0 +1,33 @@
+
+{
+  "modifyRequests": [
+    {
+      "MVID": "222222",
+      "applicationType": "1",
+      "caseNumber": "22222222",
+      "caseorigincode": "1",
+      "caseorigincodename": "active",
+      "incidentid": "222222",
+      "installDate": "29/9/2017",
+      "new_iipdeviceremovaldate": "29/9/2017",
+      "new_iipinstallstartdate": "29/9/2017",
+      "new_iipstatus": "1",
+      "new_iipstatusname": "active",
+      "new_revokedate": "29/9/2017",
+      "removalDate": "29/9/2017",
+      "revokeDate": "29/9/2017"
+    }
+  ]
+}
+{
+    "dateResponseList": [
+        {
+            "MVID": "111111",
+            "caseNumber": "CAS-00000-000000",
+            "transmissionID": "11111111111",
+            "responseMessage": "Success",
+            "responseCode": 0
+        }
+    ]
+} 
+
